@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+# Khushi Kamboj - Digital Portfolio
 
-## Project info
+### [✨ View the Live Demo ✨](https://khushi-portfolio-ghj22fy11-khushis-projects-78b8c231.vercel.app/)
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This repository contains the source code for my personal digital portfolio, a modern and interactive single-page application designed to showcase my skills, projects, and professional journey as an aspiring Software Engineer.
 
-## How can I edit this code?
+## 🚀 Key Features
 
-There are several ways of editing your application.
+- **🎨 Modern & Responsive Design:** A sleek, dark-themed UI built with Tailwind CSS and ShadCN UI, ensuring a seamless experience on all devices.
+- **🤖 AI-Powered Recommendations:** An intelligent feature in the Projects section that suggests the most relevant projects based on a visitor's interests.
+- **⚡ Interactive UI/UX:** Smooth animations, hover effects, and a dynamic typing effect in the hero section to create an engaging user experience.
+- **✉️ Firebase-Integrated Contact Form:** A fully functional contact form that securely stores messages in a Firestore database.
+- **🧩 Component-Based Architecture:** Built with React and Next.js for a scalable and maintainable codebase.
+- **📄 One-Click Resume Download:** Allows visitors to easily download my resume.
 
-**Use Lovable**
+## 🛠️ Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+This project is built with a modern, full-stack technology set:
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend:** [Next.js](https://nextjs.org/), [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/), [Tailwind CSS](https://tailwindcss.com/), [ShadCN UI](https://ui.shadcn.com/)
+- **Backend & AI:** [Genkit](https://firebase.google.com/docs/genkit) for AI-powered features, [Server Actions](https://nextjs.org/docs/app/building-your-application/data-fetching/server-actions-and-mutations)
+- **Database:** [Firebase Firestore](https://firebase.google.com/docs/firestore) for the contact form.
+- **Deployment:** Ready for deployment on platforms like Firebase App Hosting, Vercel, or Netlify.
 
-**Use your preferred IDE**
+## ⚙️ Getting Started
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+To run this project locally, follow these steps:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### Prerequisites
 
-Follow these steps:
+- [Node.js](https://nodejs.org/en/) (v18 or later recommended)
+- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Installation & Setup
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1.  **Clone the repository:**
+    ```bash
+    git clone https://github.com/Khushi-Kamboj/your-portfolio-repo.git
+    cd your-portfolio-repo
+    ```
 
-# Step 3: Install the necessary dependencies.
-npm i
+2.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+3.  **Set up environment variables:**
+    Create a `.env` file in the root of the project and add your Firebase and Genkit API keys.
 
-**Edit a file directly in GitHub**
+4.  **Run the development server:**
+    ```bash
+    npm run dev
+    ```
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Open [http://localhost:9002](http://localhost:9002) in your browser to see the result.
 
-**Use GitHub Codespaces**
+## 📫 Get In Touch
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+I'm always open to connecting and discussing new opportunities.
 
-## What technologies are used for this project?
+- **LinkedIn:** [@khushikamboj5](https://linkedin.com/in/khushikamboj5)
+- **GitHub:** [@Khushi-Kamboj](https://github.com/Khushi-Kamboj)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+*This README was crafted with assistance from an AI partner.*
